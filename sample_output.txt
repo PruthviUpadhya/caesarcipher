@@ -1,0 +1,34 @@
+=== Caesar Cipher with Brute-Force Cryptanalysis ===
+Original message : Hello, World! Meet at 5 PM.
+Key              : 3
+Encrypted message: Khoor, Zruog! Phhw dw 5 SP.
+Decrypted message: Hello, World! Meet at 5 PM.
+Round-trip test  : PASS
+
+Brute-force candidates for ciphertext 'KHOOR':
+Key  0: KHOOR
+Key  1: JGNNQ
+Key  2: IFMMP
+Key  3: HELLO
+Key  4: GDKKN
+Key  5: FCJJM
+Key  6: EBIIL
+Key  7: DAHHK
+Key  8: CZGGJ
+Key  9: BYFFI
+Key 10: AXEEH
+Key 11: ZWDDG
+Key 12: YVCCF
+Key 13: XUBBE
+Key 14: WTAAD
+Key 15: VSZZC
+Key 16: URYYB
+Key 17: TQXXA
+Key 18: SPWWZ
+Key 19: ROVVY
+Key 20: QNUUX
+Key 21: PMTTW
+Key 22: OLSSV
+Key 23: NKRRU
+Key 24: MJQQT
+Key 25: LIPPS
